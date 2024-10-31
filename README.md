@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5890682c-90b6-4f55-80aa-f185a634dda1)
+
 # Music Emotion Recognition
 An audio-based deep learning project aimed at classifying music into emotional categories using spectrogram data and a 2D CNN model. This project leverages Russell’s Circumplex Model of Affect to classify songs into specific emotions (Happy, Sad, Bored) based on arousal and valence values.
 
@@ -17,4 +17,4 @@ Feature-Rich Data: Incorporates a variety of audio features like MFCCs, Mel spec
 The model achieved an accuracy of 95% on the test dataset, demonstrating robust performance in recognizing emotional categories across different languages and music genres.
 
 ![image](https://github.com/user-attachments/assets/903570ba-7379-44ce-8bde-fe503f58113f)
-![image](https://github.com/user-attachments/assets/51a64975-166d-4cdf-9b85-1f433bf31aa2)
+![image](https://github.com/user-attachments/assets/5890682c-90b6-4f55-80aa-f185a634dda1)
